@@ -1,4 +1,4 @@
-<a href="https://app.daily.dev/peterjcole"><img src="https://github.com/peterjcole/peterjcole/blob/main/devcard.svg" width="400" alt="Peter Cole's Dev Card"/></a>
+<a href="https://app.daily.dev/peterjcole"><img src="https://github.com/peterjcole/peterjcole/blob/main/devcard.svg" width="300" alt="Peter Cole's Dev Card"/></a>
 
 
 <!--
